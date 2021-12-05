@@ -1,0 +1,19 @@
+{
+  "name": "uptask",
+  "version": "1.0.0",
+  "description": "First project of Node Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosVelilla/uptask.git"
+  },
+  "author": "Carlos Velilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosVelilla/uptask/issues"
+  },
+  "homepage": "https://github.com/CarlosVelilla/uptask#readme"
+}
